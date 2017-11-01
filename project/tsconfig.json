@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "system",
+        "sourceMap": false,
+        "inlineSources": false,
+        "outFile" : "Test.js"
+    },
+    "filesGlob": [
+        "./*.ts",
+        "./**/*.ts",
+        "!./**/*.d.ts",
+        "./inspinia.js"
+    ],
+    "exclude": [
+        "app/Definitions"
+    ]
+}
