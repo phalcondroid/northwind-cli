@@ -1,6 +1,14 @@
 # Northwind cli tool
 
-Dependences to install
+Dependencies to install northwind cli tool
+
+## Commands
+
+```
+northwind project projectName
+```
+
+## Install dependencies
 
 ### Nodejs and Npm
 ```
@@ -26,3 +34,5 @@ npm install --save fs-extra
 ```
 npm install --save path
 ```
+
+
